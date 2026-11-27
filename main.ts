@@ -1,4 +1,5 @@
 // GOBBLE OR GONE: 3 Doors to Dawn — the hand-in program (Node 22, standard library only).
+// Entry v1 for R1 — 3 doors, 3 feathers, 120 seconds, 1 dinner bell.
 // It copies this repository's game/ and screenshots/ into /output and writes
 // /output/dossier.json with the vendored make.fun library, exactly the dossier the
 // gate rebuilds and compares byte for byte. Outside the grader, MAKEFUN_OUTPUT_DIR
